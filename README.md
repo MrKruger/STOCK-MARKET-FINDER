@@ -3,6 +3,21 @@
 O SMF ou STOCK MARKET FINDER é uma ferramenta de consulta fundamentalista em ações cotadas na B3 (Brasil, Bolsa, Balcão). Com ela é possível realizar a consulta dos principais indicadores fundamentalistas dos ativos, bem como obter de forma automática um checklist de perguntas relevantes para o tipo de análise em questão, tendo em vista obter resultados satisfatórios de acordo com o objetivo estipulado como meta na estratégia definida pelo investidor. Ainda, se pode obter as recomendações de compra, venda e permanência de posições dos ativos. 
 
 O funcionamento da ferramenta SMF é simples. Depois de baixado, e seguido todos os passos explicativos para o bom funcionamento do código, basta executar o programa, depois escolher entre as opções de 1 a 9. Para novos usuários é recomendado que vejam a opção 8 (Ajuda) previamente.
+Para todas as opções (exceto, opções 8 e 9), o programa irá requisitar qual o ticker do ativo o usuário deseja. O ticker deve ser preenchido conforme a descrição na bolsa, podendo ser digitado com letras maiúculas ou minúsculas, exemplo: BIDI4/bidi4.
+
+Observações:
+>(1)
+AS RECOMENDAÇÕES SÃO FEITAS ATRAVÉS DE CRITÉRIOS GERAIS, PORÉM CADA INVESTIDOR DEVE POSSUIR UMA ESTRATÉGIA PRÓPRIA, VISANDO A MELHOR FORMA DE OBTENÇÃO DE PATRIMÔNIO, NO LONGO PRAZO, OU OBTENÇÃO DE LUCRO, NO CURTO PRAZO. POR ISSO, É SIGNIFICATIVO QUE A ESTRATÉGIA SEJA ELABORADA VISANDO A OBTENÇÃO DAS METAS, OBJETIVOS E RESULTADOS PRETENDIDOS PELO INVESTIDOR.
+
+>(2)
+A ANÁLISE DE RECOMENDAÇÃO PROCURA OFERECER UMA VISÃO GERAL SOBRE A SITUAÇÃO DA EMPRESA DE ACORDO COM CRITÉRIOS FUNDAMENTALISTAS. 
+A PONTUAÇÃO BUSCA APRESENTAR AO INVESTIDOR CRITÉRIOS VALIOSOS QUE VALEM A PENA SEREM CONSIDERADOS NA HORA DA AQUISIÇÃO DA AÇÃO ANALISADA. RESSALTAMOS AINDA QUE RENTABILIDADE PASSADA NÃO É GARANTIA DE RENTABILIDADE FUTURA.                                           
+
+>(3)
+RECOMENDAMOS AINDA QUE ANTES DE QUALQUER TOMADA DE DECISÃO O INVESTIDOR REALIZE IMPRETERIVELMENTE TODAS AS ANÁLISES E CÁLCULOS DE FORMA MANUAL, AFIM DE QUE POSSA CONFERERIR OS DADOS APRESENTADOS PELO SOFTWARE.
+
+>(4)
+NÃO NOS RESPONSABILIZAMOS POR NENHUMA TOMADA DE DECISÃO PROVINDA DE QUALQUER TIPO OU FORMA DE RECOMENDAÇÃO DESTE SOFTWARE, A AQUISIÇÃO DE QUALQUER ATIVO, É DE INTERINA RESPONSABILIDADE APENAS, E SOMENTE APENAS, DO INVESTIDOR.                                     
 
 ## Instalação e Configuração do Software
 
