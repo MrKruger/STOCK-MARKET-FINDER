@@ -3,7 +3,7 @@
 O SMF ou STOCK MARKET FINDER é uma ferramenta de consulta fundamentalista em ações cotadas na B3 (Brasil, Bolsa, Balcão). Com ela é possível realizar a consulta dos principais indicadores fundamentalistas dos ativos, bem como obter de forma automática um checklist de perguntas relevantes para o tipo de análise em questão, tendo em vista obter resultados satisfatórios de acordo com o objetivo estipulado como meta na estratégia definida pelo investidor. Ainda, se pode obter as recomendações de compra, venda e permanência de posições dos ativos. 
 
 O funcionamento da ferramenta SMF é simples. Depois de baixado, e seguido todos os passos explicativos para o bom funcionamento do código, basta executar o programa, depois escolher entre as opções de 1 a 9. Para novos usuários é recomendado que vejam a opção 8 (Ajuda) previamente.
-Para todas as opções (exceto, opções 8 e 9), o programa irá requisitar qual o ticker do ativo o usuário deseja. O ticker deve ser preenchido conforme a descrição na bolsa, podendo ser digitado com letras maiúculas ou minúsculas, exemplo: BIDI4/bidi4.
+Para todas as opções (exceto, opções 8 e 9), o programa irá requisitar qual o ticker do ativo o usuário deseja. O ticker deve ser preenchido conforme a descrição na bolsa, podendo ser digitado com letras maiúsculas ou minúsculas, exemplo: BIDI4/bidi4.
 
 ## Observações:
 
